@@ -17,11 +17,6 @@ A simple implementation of Todo MVC application. This project is designed to be 
 
 ## Development Environment Setup
 
-### Prerequisites
-
-- Docker
-- Docker Compose
-
 ### Getting Started
 
 1. Clone the repository:
